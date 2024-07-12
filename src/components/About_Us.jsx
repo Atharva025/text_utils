@@ -127,7 +127,7 @@ export default function About_Us() {
             data-bs-parent="#accordionExample"
           >
             <div className="accordion-body" style={myStyle}>
-              The Reverse Text Button Reverse the entire Characters Entered in the Text-Field Area. 
+              The Reverse Text Button Reverses the entire Characters Entered in the Text-Field Area. 
             </div>
           </div>
         </div>
